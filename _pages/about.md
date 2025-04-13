@@ -36,11 +36,6 @@ My research areas include:
 
 
 
-# 📝 Papers
-
-
-
-# 🏅 Awards
 
 
 
