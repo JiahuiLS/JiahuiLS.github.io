@@ -39,21 +39,7 @@ My research areas include:
 
 
 
-# 📝 Papers
----
 
----
-
--  Zhiyuan Peng, `Yuanbo Tang`, and Yang Li. “Dy-Mer: An Explainable DNA Sequence Representation Scheme Using Sparse Recovery,” July 6, 2024. https://doi.org/10.48550/arXiv.2407.12051.
-
-
-<span class='anchor' id='-ryjx'></span>
-
-# 🏅 Awards
-- *2023.06* 
-
-
-<span class='anchor' id='-xshy'></span>
 
 
 
