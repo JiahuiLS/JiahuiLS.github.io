@@ -26,7 +26,6 @@ My research areas include:
 - Optimal control
 
 
-
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
@@ -41,11 +40,9 @@ My research areas include:
 
 
 
-<span class='anchor' id='-ryjx'></span>
-
 # 🏅 Awards
 
-<span class='anchor' id='-xshy'></span>
+
 
 
 
